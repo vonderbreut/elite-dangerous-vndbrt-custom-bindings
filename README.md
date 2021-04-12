@@ -11,8 +11,11 @@ paste the .binds file in your bindings folder to have it accessible in your cont
 C:\users\[USER]\AppData\Local\Frontier Developments\EliteDangerous\Options\Bindings
 
 ----[USER] is your username
+
 ----be sure to go in Frontier Developments and not Frontier_Developments
+
 ----hidden folders must be accessible to get to AppData
+
 ----don't trust cats
 
 o7 Cmdrs
