@@ -4,8 +4,9 @@ von der breut's custom elite:dangerous gamepad bindings for pc
 
 this is a custom .binds file for elite dangerous
 
+get it by clicking on the green "CODE" button, then "download .zip"
 
-just paste it in your folder to have it accessible in your controls menu in the game
+paste the .binds file in your bindings folder to have it accessible in your controls menu in the game
 
 C:\users\[USER]\AppData\Local\Frontier Developments\EliteDangerous\Options\Bindings
 
