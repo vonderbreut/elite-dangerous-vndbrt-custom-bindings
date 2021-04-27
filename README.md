@@ -19,3 +19,5 @@ C:\users\[USER]\AppData\Local\Frontier Developments\EliteDangerous\Options\Bindi
 ----don't trust cats
 
 o7 Cmdrs
+
+![cutom_explaination](https://raw.githubusercontent.com/vonderbreut/elite-dangerous-vndbrt-custom-bindings/main/Xbox%20Gamepad%20Elite%20v.4.jpg)
